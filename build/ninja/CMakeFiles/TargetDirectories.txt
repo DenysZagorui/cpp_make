@@ -1,0 +1,4 @@
+/home/dzagorui/cpp/002_make/calculator/build/ninja/CMakeFiles/rebuild_cache.dir
+/home/dzagorui/cpp/002_make/calculator/build/ninja/CMakeFiles/calculator.dir
+/home/dzagorui/cpp/002_make/calculator/build/ninja/CMakeFiles/edit_cache.dir
+/home/dzagorui/cpp/002_make/calculator/build/ninja/CMakeFiles/calc.dir
